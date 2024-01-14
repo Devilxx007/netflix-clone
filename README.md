@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+Deployed : https://netflix-a0567.web.app
 ### `npm start`
 
 Runs the app in the development mode.\
